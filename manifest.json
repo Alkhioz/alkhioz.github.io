@@ -1,0 +1,21 @@
+{
+  "name": "Alkhioz portfolio",
+  "short_name": "Alkhioz",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "theme_color": "#0D65F3",
+  "background_color": "#0D65F3",
+  "icons": [
+    {
+      "src": "/icons/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/iconx2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
